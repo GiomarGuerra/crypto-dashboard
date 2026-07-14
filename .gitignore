@@ -1,4 +1,7 @@
 .streamlit/secrets.toml
+data/crypto.csv
+data/crypto.parquet
+data/raw_crypto.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
